@@ -8,7 +8,6 @@ export default function Home() {
           className="dark:invert"
           src="https://nextjs.org/icons/next.svg 코드 수정했음"
           alt="Next.js logo"
-          정현섭
           width={180}
           height={38}
           priority
