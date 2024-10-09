@@ -6,8 +6,9 @@ export default function Home() {
       <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
         <Image
           className="dark:invert"
-          src="https://nextjs.org/icons/next.svg"
+          src="https://nextjs.org/icons/next.svg 코드 수정했음"
           alt="Next.js logo"
+          정현섭
           width={180}
           height={38}
           priority
